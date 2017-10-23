@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### [Actualize.me (working title)]
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+This will provide an easy way for students to track their progress throughout the program and provide a way for teachers to tailor feedback to foster student success.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+At present there is no easy way for students to track their progress through Turing, or even through other programs. Most student tracking products out there, use spreadsheets and markdown gists, or physical boards. This requires a lot of effort on top of actual learning and teaching, which turns many people away.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+This app will provide an easy interface for instructors to grade projects and aggregate that data. Students will have access to visualizations of that data and can set goals for themselves. Hopefully they will also be able to schedule pairing time with other students strong in the areas they need.
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+The target audience for this first iteration will be Turing students and instructional staff. I would hope to eventually make this applicable to other programs in higher education. 
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+I hope to implement an API in Go and a frontend to consume it. If Go ends up being too beastly, I might ask to switch to a Rails Backend.
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+I would like to use Pivotal Tracker for this project.
